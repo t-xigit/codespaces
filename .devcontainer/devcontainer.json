@@ -24,7 +24,15 @@
 				"ms-python.python",
 				"donjayamanne.python-environment-manager",
 				"redhat.ansible",
-				"wholroyd.jinja"
+				"wholroyd.jinja",
+				"streetsidesoftware.code-spell-checker",
+				"ZainChen.json",
+				"yzhang.markdown-all-in-one",
+				"GitHub.copilot",
+				"me-dutour-mathieu.vscode-github-actions",
+				"oderwat.indent-rainbow",
+				"2gua.rainbow-brackets",
+				"redhat.vscode-yaml"
 			]
 		}
 	}
